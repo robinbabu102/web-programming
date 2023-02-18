@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> sample
+</tItle>
+</head>
+<body>
+<?php
+$a = "this is s message from future,matrix is everywhere"; echo "$a";
+?>
+</body>
+</html>

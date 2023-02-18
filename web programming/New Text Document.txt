@@ -1,0 +1,27 @@
+<html>
+<head>
+<link re] ="stylesheet" href="ref.css">
+</head>
+<style> body
+{
+color:maroon; font-family: arial;
+background-color: lightpink;
+}
+pl
+{
+color:black;
+font-family: arial
+}
+</style>
+<center>
+<body>
+<hl style = "color: brown;font-size:40">CEV</hl>
+<p1>College of Engineering, Vadakara(Formerly Co-operative Institute of Technology, Vadakara)is the first College established by the Co-operative Academy of Professional Education, whichstarted functioning in the year 1999. Courses offered are B.Tech in Civil Engineering, ComputerScience & Engineering, Electronics & Communication Engineering, Electronics &Instrumentation, Electrical & Electronics Engineering, Information Technology and Master ofComputer Applications(MCA). The courses are affiliated to Cochin University of Science andTechnology(CUSAT). </pl><br>
+<p2>For transportation of students and staff , the college has self sufficient transportation facility managed by the college bus committee. Under the ownership of Principal college has 10 buses to meet the conveyance of staff and students. Bus committee is providing bus
+18
+20MCA133-WEB PROGRAMMING LAB
+service to Vadakara,Payyoli, Koyilandi and Perambra having distance of 12Km, 10Km, 35Km, and 25 km respectively from college premises
+</p2>
+</body>
+</center>
+</html>

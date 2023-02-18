@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> sample</title>
+</head>
+<?php
+$a = "12321";
+echo "original number is:$a<br>";
+if ( $a == strrev($a) )
+{
+echo "the given number is palindromic";
+}
+else
+{
+echo "the given number is not palindromic";
+}
+?>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> sample
+</title>
+</head>
+<body>
+<?php
+$a = 10;
+$b = 15;
+echo "first number=$a<br>";
+echo "second number=$b<br>";
+$c = $a;
+$a = $b;
+$b = $c;
+echo "first number=$a<br>";
+echo "second number=$b<br>";
+?>
+</body>
+</html>

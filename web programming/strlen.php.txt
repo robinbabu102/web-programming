@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> sample
+</title>
+</head>
+<body>
+<?php
+$a = "hello all";
+$b=strlen($a);
+echo "length of the string is: $b";
+?>
+</body>
+</html>

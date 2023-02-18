@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> sample</title>
+</head>
+<body>
+<?php
+echo "original string is:<br>";
+$a = "php is a dynamic language"; echo "$a<br>";
+$b = strrev($a);
+echo "reverse string is:<br>"; echo "$b"
+?>
+</body>
+</html>
